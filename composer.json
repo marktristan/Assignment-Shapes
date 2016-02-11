@@ -1,0 +1,13 @@
+{
+    "name": "3ztan/codetest",
+    "require-dev": {
+        "phpunit/phpunit": "^5.2"
+    },
+    "authors": [
+        {
+            "name": "marktristan",
+            "email": "mark.onlinedev@gmail.com"
+        }
+    ],
+    "require": {}
+}
